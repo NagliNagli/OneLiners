@@ -9,7 +9,7 @@ usage: "ffufr common.txt tesla.com"
 2.Install ffuf - "https://github.com/ffuf/ffuf"
 3.Go to home directory (cd)
 4.nano/vim .bashrc
-5.Configure the function below to your Seclists Web-Content path.
+5.Configure the function above to your Seclists Web-Content path.
 6.save the .bashrc
 7.run source .bashrc to update the changes made.
 8. run "ffufr WORDLISTNAME.txt, DOMAIN.com"
