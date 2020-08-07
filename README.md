@@ -5,7 +5,8 @@
 
 This repository will include my simple bash Oneliners to make life easier for new bugbounty hunters.
 
-<img src="https://raw.githubusercontent.com/NagliNagli/SLAE/master/images/slae.png">
+<p align="center"> 
+<img src="https://raw.githubusercontent.com/NagliNagli/naglinagli.github.io/master/images/BASH.jpeg">
 </p>
 
 ## Scripts
