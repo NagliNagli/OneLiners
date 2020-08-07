@@ -10,7 +10,7 @@ This repository will include my simple bash Oneliners to make life easier for ne
 
 ## Scripts
 
-**ffufr - Easy recursion ffuf oneliner configuration using SecLists ** - <https://github.com/NagliNagli/OneLiners/blob/master/ffufr>
+**ffufr - Easy recursion ffuf oneliner configuration using SecLists** - <https://github.com/NagliNagli/OneLiners/blob/master/ffufr>
 
 
 **Twitter: https://twitter.com/naglinagli** 
