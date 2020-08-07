@@ -11,10 +11,10 @@ This repository will include my simple bash Oneliners to make life easier for ne
 
 ## Scripts
 
-**ffufr - Easy recursion ffuf oneliner configuration using SecLists** - <https://github.com/NagliNagli/OneLiners/blob/master/ffufr>
+**ffufr - simple ffuf oneliner recursion configuration using SecLists** - <https://github.com/NagliNagli/OneLiners/blob/master/ffufr>
 
 <p align="center"> 
-<img src="https://raw.githubusercontent.com/NagliNagli/naglinagli.github.io/master/images/ffufr%20(1).png">
+<img src="https://raw.githubusercontent.com/NagliNagli/naglinagli.github.io/master/images/finalffufr.png">
 </p>
 
 
