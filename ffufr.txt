@@ -1,0 +1,13 @@
+## Download SECLISTS wordlists
+## Go to home directory (cd)
+## nano/vim .bashrc
+## Configure the function below to your Seclists Web-Content path.
+## save the .bashrc
+## run source .bashrc to update the changes made.
+## usage: "ffufr common.txt tesla.com" Where you can choose whichever wordlist you wish for in the Web-Content Directory.
+
+
+ffufr()
+{
+ffuf -c -w /SecLists/Discovery/Web-Content/$1 -u http://$2/FUZZ -recursion
+}
