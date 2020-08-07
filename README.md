@@ -17,5 +17,9 @@ This repository will include my simple bash Oneliners to make life easier for ne
 <img src="https://raw.githubusercontent.com/NagliNagli/naglinagli.github.io/master/images/finalffufr.png">
 </p>
 
+### References
+
+<https://github.com/danielmiessler/SecLists>
+<https://github.com/ffuf/ffuf>
 
 **Twitter: https://twitter.com/naglinagli** 
